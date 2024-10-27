@@ -5,6 +5,7 @@ Faridzal Quest is a web-based RPG game where players battle monsters and ultimat
 ## Table of Contents
 
 - [Preview](#preview)
+- [Live Demo](#live-demo)
 - [How to Play](#how-to-play)
 - [Features](#features)
 - [Project Structure](#project-structure)
@@ -14,6 +15,10 @@ Faridzal Quest is a web-based RPG game where players battle monsters and ultimat
 ## Preview
 
 ![Screenshot of Faridzal Quest](images/preview.jpg)
+
+## Live Demo
+
+Try the game here: [Faridzal Quest - Live Demo](https://brodamaris.github.io/FaridzalQuest-RolePlayingGame/)
 
 ## How to Play
 
