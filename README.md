@@ -4,11 +4,16 @@ Faridzal Quest is a web-based RPG game where players battle monsters and ultimat
 
 ## Table of Contents
 
+- [Preview](#preview)
 - [How to Play](#how-to-play)
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
 - [License](#license)
+
+## Preview
+
+![Screenshot of Faridzal Quest](images/preview.jpg)
 
 ## How to Play
 
