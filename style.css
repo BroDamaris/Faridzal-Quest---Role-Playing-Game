@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Quicksand:wght@300..700&display=swap");
+
+body {
+  background-color: #522258;
+  font-family: "quicksand", serif;
+}
+
+.title {
+  color: #f3f3e0;
+  text-align: center;
+}
+
+#text {
+  background-color: #522258;
+  color: #f3f3e0;
+  padding: 10px;
+}
+
+#game {
+  max-width: 500px;
+  max-height: 400px;
+  background-color: #f3f3e0;
+  color: #f3f3e0;
+  margin: 30px auto 0px;
+  padding: 10px;
+}
+
+#controls,
+#stats {
+  border: 1px solid #522258;
+  padding: 5px;
+  color: #522258;
+}
+
+#monsterStats {
+  display: none;
+  border: 1px solid #522258;
+  padding: 5px;
+  color: #f3f3e0;
+  background-color: #c70d0d;
+}
+
+.stat {
+  padding-right: 10px;
+}
+
+button {
+  cursor: pointer;
+  color: #522258;
+  background-color: #feac32;
+  background-image: linear-gradient(#ffde4d, #ffb22c);
+  border: 3px solid #feac32;
+}
